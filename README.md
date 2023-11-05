@@ -7,7 +7,7 @@ Head to https://github.com/sim0n00ps/Bunkr-DL/releases and download the latest r
 You should have Bunkr DL.exe.
 
 # Usage
-Once the Config is set up, double click GoFile DL.exe and you have 3 options:
+Double click Bunkr DL.exe and you have 3 options:
 
 ### Download From Album
 This option allows you to enter a Bunkr album link e.g https://bunkrr.su/a/xxxxxxx and the content will be downloaded to the `Downloads` folder.
