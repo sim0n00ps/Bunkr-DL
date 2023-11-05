@@ -23,7 +23,7 @@ namespace Bunkr_DL
 
 				var mainMenuSelection = AnsiConsole.Prompt(
 					new SelectionPrompt<string>()
-						.Title("[red]What would you like to do? | Download From Album - Download content from an album[/]")
+						.Title("[red]What would you like to do? | Download From Album - Download content from an album | Download Single File - Download a single file e.g a video or zip file[/]")
 						.AddChoices(mainMenuOptions)
 				);
 
